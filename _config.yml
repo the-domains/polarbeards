@@ -1,6 +1,6 @@
 name: Polarbeards
 favicon: null
-layout_spectrum: 0.09836
+layout_spectrum: 0.25712
 typography_spectrum: 0.22585
 title: Beard Care for Extreme Conditions
 cta:
@@ -22,8 +22,8 @@ color:
     - '#58585a'
     - '#0077a4'
     - '#3a3a3c'
-  brandStrength: 0.3125
-  lightness: 0.4351651417091489
-  saturation: 0.7292414922267199
-  rhythmicContrast: 0.3920738217420876
+  brandStrength: 0.6875
+  lightness: 0
+  saturation: 0.0625
+  rhythmicContrast: 0
 purpose: []
