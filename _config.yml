@@ -1,6 +1,6 @@
 name: Polarbeards
 favicon: null
-layout_spectrum: 0.01983486651442945
+layout_spectrum: 1
 typography_spectrum: 0.24051636015065014
 cta:
   domain: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.8270910298451781
+    - '#ffffff'
+    - '#a7a9ac'
+    - '#58585a'
+    - '#0077a4'
+    - '#3a3a3c'
+  brandStrength: 0.8125
   lightness: 0.4351651417091489
   saturation: 0.7292414922267199
   rhythmicContrast: 0.3920738217420876
